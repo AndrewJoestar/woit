@@ -11,7 +11,7 @@
 
 <span align="center">
 
-**Laravel Stisla** is a Free Bootstrap Admin Template which will help you to speed up your project and design your own dashboard UI using Laravel blade templating engine.
+This Project is a Build Using **Laravel Stisla** .
 
 </span>
 
@@ -47,8 +47,9 @@
 Several quick start options are available:
 
 -   Clone the repo: `git clone https://github.com/edikurniawan-dev/laravel-stisla.git`
--   Run `cd` to the newly created `/laravel-stisla` directory
+-   Run `cd` to the newly created directory
 -   Run `composer install` command
+-   Run `composer update` command
 -   Run `npm install` command
 -   Run `npm run dev` command
 -   Run `cp .env.example .env` command
